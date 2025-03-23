@@ -4,9 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/keerthi-seela-4511a92a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerthi seela" height="30" width="40" /></a>
-<a href="https://fb.com/keerthi seela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keerthi seela" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100095142138080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keerthi seela" height="30" width="40" /></a>
 <a href="https://instagram.com/seela_keerthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seela_keerthi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/keerthi100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keerthi100" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Keerthi-2012/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keerthi100" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Interests:</h3>
